@@ -18,5 +18,5 @@
  
  
  # Folder
- Core
+ Core,
  Test

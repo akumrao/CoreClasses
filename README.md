@@ -3,7 +3,7 @@
 
      String,
      Thread, 
-     Token Generation & Expiration, 
+     Token Generation, Expiration & Validation, 
      UUID, CoreID, 
      Loggin,
      Profiling
@@ -14,5 +14,9 @@
  # To Comple
 
  apt-get install uuid uuid-dev
-
  make
+ 
+ 
+ # Folder
+ Core
+ Test

@@ -3,12 +3,13 @@
 
      String,
      Thread, 
-     Token Generation &amp; Expiration, 
+     Token Generation & Expiration, 
      UUID, CoreID, 
      Loggin,
      Profiling
      Time
- 
+     MD5 & SHA1
+     Base64Encoder Encoder & Decoder
 
  # To Comple
 

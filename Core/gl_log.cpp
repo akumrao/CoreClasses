@@ -21,7 +21,7 @@
 #define GUT_INIT_BUFSIZE    10240
 #define GUT_MAX_BUFSIZE     51200
 
-#define GUT_LOGFILE "/usr/BWhttpd/logs/ims.log"
+#define GUT_LOGFILE "/var/log/ims.log"
 #define GUT_MAX_MODULES 64
                             /*### @-prefix ************************************/
                             /*### @struct GutLogLevel {{{2 ********************/

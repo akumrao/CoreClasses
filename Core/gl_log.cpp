@@ -2,16 +2,6 @@
 #include "gl_log.h"
 #include "gl_userconf.h"
 
-   /************************************************************************
-   ** Copyright(c) 2005,2012 Broadware Technologies, Inc. All rights      **
-   **                        reserved.                                    **
-   **                                                                     **
-   **        THIS IS UNPUBLISHED PROPRIETARY SOURCE CODE OF               **
-   **                   Broadware Technologies, Inc.                      **
-   **       The copyright notice above does not evidence any              **
-   **       actual or intended publication of such source code.           **
-   ************************************************************************/
-
                             /*### @+prefix ************************************/
 #include <fcntl.h>
 #include <pthread.h>
